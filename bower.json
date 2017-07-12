@@ -2,5 +2,8 @@
   "name": "react2angular",
   "main": [
     "react2angular.js"
-  ]
+  ],
+  "dependencies": {
+    "react": "15.6.1"
+  }
 }
